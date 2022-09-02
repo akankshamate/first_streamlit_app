@@ -1,7 +1,7 @@
 import streamlit
-streamlit.title("Hello User!!!")
-streamlit.header("Programming Languages:")
-streamlit.text("C")
-streamlit.text("C++")
-streamlit.text("Java")
-streamlit.text("Python")
+streamlit.title("My Mom's New Healty Diner!!!")
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
